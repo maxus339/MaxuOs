@@ -1,0 +1,1 @@
+print("Notepad is not implemented yet.")

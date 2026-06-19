@@ -1,0 +1,1 @@
+loadfile("/system/explorer.lua")()
